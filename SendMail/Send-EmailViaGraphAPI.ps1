@@ -36,7 +36,7 @@ The flag status of the email (e.g., "flagged", "complete", "notFlagged"). Defaul
 File Name      : Send-EmailViaGraphAPI.ps1
 Prerequisite   : You need to have valid Microsoft Graph API Permissions.
 Permissions    : Mail.Send
-Author         : Uzejnovic Ahmed | au2mator
+Author         : Uzejnovic Ahmed
 
 
 .EXAMPLE
