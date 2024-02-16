@@ -21,7 +21,7 @@ This script sends an email using the Microsoft Graph API. It allows you to speci
 - **File Name**: Send-EmailViaGraphAPI.ps1
 - **Prerequisite**: You need to have valid Microsoft Graph API Permissions.
 - **Permissions**: Mail.Send
-- **Author**: Uzejnovic Ahmed | au2mator
+- **Author**: Uzejnovic Ahmed
 
 ## EXAMPLES
 
